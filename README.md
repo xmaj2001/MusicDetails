@@ -2,7 +2,7 @@
 
 ![md](md1.png)
 
-O Music Details é um programa desenvolvido no Visual Studio que permite a edição de etiquetas de música, proporcionando uma maneira fácil e eficiente de organizar e gerenciar informações importantes relacionadas a f musicais. Com este programa , você pode personalizar e aprimorar as informações das suas músicas favoritas, como título, artistas, álbum, ano de lançamento, gênero, compositor, grupo, BPM, copyright, letra, comentário e até mesmo adicionar ou atualizar a capa ou o cover da música.
+O Music Details é um programa desenvolvido no Visual Studio que permite a edição de etiquetas de música, proporcionando uma maneira fácil e eficiente de organizar e gerenciar informações importantes relacionadas a f musicais. Com este programa , você pode personalizar e aprimorar as informações das suas músicas favoritas, como título, artistas, álbum, ano de lançamento, gênero, compositor, grupo, BPM, copyright, letra, comentário e até mesmo adicionar, remover ou atualizar a cover da música.
 
 ![md](md2.png)
 
@@ -12,7 +12,7 @@ O Music Details é um programa desenvolvido no Visual Studio que permite a ediç
 
 Assista ao vídeo de demonstração para ver o Music Details em ação:
 
-[![Demonstração do Music Details](md4.png)](https://youtu.be/xRz2j5HxTYg)
+[![Demonstração do Music Details](md4.png)](https://youtu.be/2IMXLBbJr3s)
 
 ## Instalação
 
